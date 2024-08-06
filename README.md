@@ -1,7 +1,3 @@
-Certainly! Here’s an updated `README.md` file that includes a section for collaborators.
-
----
-
 # Camouflage Object Detection with YOLOv8
 
 ## Overview
@@ -95,14 +91,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Collaborators
 
-- **[Your Name](https://github.com/your-username)** - Lead Developer
-- **[Collaborator Name](https://github.com/collaborator-username)** - Contributor
-- **[Another Collaborator Name](https://github.com/another-collaborator-username)** - Contributor
+- **[Your Name](https://github.com/Artsyadi)** - Lead Developer
+- **[Collaborator Name](https://github.com/Rutufied)** - Contributor
+- 
 
 ## Contact
 
-For further information or questions, please contact [Your Name](your.email@example.com).
+For further information or questions, please contact [](your.email@example.com).
 
 ---
-
-Be sure to replace placeholders like `your-username`, `your-repository`, and collaborator names with actual information.
