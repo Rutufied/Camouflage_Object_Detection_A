@@ -91,12 +91,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Collaborators
 
-- **[Your Name](https://github.com/Artsyadi)** - Lead Developer
-- **[Collaborator Name](https://github.com/Rutufied)** - Contributor
+- **[Aditya Dawale](https://github.com/Artsyadi)** 
+- **[Rutuja Balbudhe](https://github.com/Rutufied)** 
 - 
 
-## Contact
 
-For further information or questions, please contact [](your.email@example.com).
 
 ---
