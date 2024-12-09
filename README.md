@@ -93,8 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **[Aditya Dawale](https://github.com/Artsyadi)** 
 - **[Rutuja Balbudhe](https://github.com/Rutufied)** 
-
-
-
+- **[Bhigishwari Uikey](https://github.com/bhigishwari-uikey)** 
 
 ---
